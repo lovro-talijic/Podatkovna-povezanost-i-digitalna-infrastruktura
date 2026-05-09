@@ -1,0 +1,10 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<narudzba xmlns:xs = "http://www.w3.org/2001/XMLSchema/Instance"
+    xs:noNamespaceSchemaLocation = "narudzba.xsd">
+    <kupac>Lovro Talijić</kupac>
+    <datumNarudzbe>2026-05-09</datumNarudzbe>
+    <kolicina>1</kolicina>
+    <statusNarudzbe>poslana</statusNarudzbe>
+    <ukupanIznos valuta = "EUR">24.55</ukupanIznos>
+
+</narudzba>
