@@ -1,0 +1,33 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+
+<studenti>
+    <student>
+        <Ime>Lovro</Ime>w
+        <Prezime>Talijić</Prezime>
+        <JMBG>0246098421</JMBG>
+        <Datum_rodenja>2000-05-20</Datum_rodenja>
+        <Godina_studija>3</Godina_studija>
+        <Studijski_program>Informatika - OIU</Studijski_program>
+        <Kontakt>
+            <E-mail>ltalijic@tvz.hr</E-mail>
+            <Telefon></Telefon>
+        </Kontakt>
+        <Kolegiji>
+            <Kolegij>
+                <Naziv>Projektni razvoj programske podrške</Naziv>
+                <Profesor>Mia Čarapina</Profesor>
+                <ECTS>4</ECTS>
+            </Kolegij>
+             <Kolegij>
+                <Naziv>Napredne tehnike programiranja</Naziv>
+                <Profesor>Željko Kovačević</Profesor>
+                <ECTS>6</ECTS>
+            </Kolegij>
+             <Kolegij>
+                <Naziv>Podatkovna povezanost i digitalna infrastruktura</Naziv>
+                <Profesor>Alen Šimec</Profesor>
+                <ECTS>5</ECTS>
+            </Kolegij>
+        </Kolegiji>
+    </student>
+</studenti>
