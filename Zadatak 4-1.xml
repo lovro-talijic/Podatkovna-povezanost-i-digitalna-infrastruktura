@@ -1,0 +1,11 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<Student xmlns:xs = "http://www.w3.org/2001/XMLSchema/Instance"
+    xs:noNamespaceSchemaLocation = "student.xsd">
+    <ime>Lovro</ime>
+    <cijena>69.99</cijena>
+    <godine>25</godine>
+    <aktivan>true</aktivan>
+    <datumRodjenja>2000-05-20</datumRodjenja>
+    <vrijemePocetka>10:00:00</vrijemePocetka>
+
+</Student>
