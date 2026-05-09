@@ -1,0 +1,17 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+
+<studenti>
+    <student>
+        <ime>Lovro</ime>
+        <prezime>Talijić</prezime>
+        <JMBG>0246098421</JMBG>
+        <Datum_rodenja>2000-05-20</Datum_rodenja>
+        <Godina_studija>3</Godina_studija>
+        <Studijski_program>Informatika - OIU</Studijski_program>
+        <Adresa> 
+            <Ulica>Siget 18 c</Ulica>
+            <Grad>zagreb</Grad>
+            <Postanski_broj>10020</Postanski_broj>
+        </Adresa>
+    </student>
+</studenti>

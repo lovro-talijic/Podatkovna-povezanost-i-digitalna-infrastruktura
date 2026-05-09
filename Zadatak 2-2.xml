@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding = "UTF-8"?>
+
+<knjiznice>
+    <knjiznica ime = "Gradska">
+        <adresa>Ilica 20, Zagreb</adresa>
+        <knjige>
+            <knjiga autor="Ivo Andrić">
+                <naziv>Na Drini ćuprija</naziv>
+                <godina_izdanja>1945</godina_izdanja>
+                <žanr>Roman</žanr>
+                <broj_primjeraka>5</broj_primjeraka>
+            </knjiga>
+             <knjiga autor="Fjodor Dostojevski">
+            <naziv>Zločin i kazna</naziv>
+            <godina_izdanja>1866</godina_izdanja>
+            <žanr>Roman</žanr>
+            <broj_primjeraka>3</broj_primjeraka>
+            </knjiga>
+        </knjige>
+    </knjiznica>
+    <!--element knjiznica ima više descendant elemenata sa vlastitim child elementima. 
+    Sadrži jedan atribut za razlikovanje više knjiznica.-->
+    <knjiznica ime = "Fakultetska">
+        <adresa>Vukovarska 58, Split</adresa>
+        <knjige>
+            <knjiga autor="Brian Kernighan">
+                <naziv>C programiranje</naziv>
+                <godina_izdanja>1988</godina_izdanja>
+                <žanr>Informatika</žanr>
+                <broj_primjeraka>7</broj_primjeraka>
+            </knjiga>
+            <knjiga autor="Thomas Cormen">
+                <naziv>Uvod u algoritme</naziv>
+                <godina_izdanja>2009</godina_izdanja>
+                <žanr>Informatika</žanr>
+                <broj_primjeraka>4</broj_primjeraka>
+            </knjiga>
+            <knjiga autor="William Shakespeare">
+                <naziv>Hamlet</naziv>
+                <godina_izdanja>1603</godina_izdanja>
+                <žanr>Drama</žanr>
+                <broj_primjeraka>6</broj_primjeraka>
+            </knjiga>
+        </knjige>
+
+    </knjiznica>
+
+</knjiznice>
+

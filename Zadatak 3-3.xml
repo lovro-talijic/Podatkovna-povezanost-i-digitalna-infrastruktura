@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding = "UTF-8"?>
+
+<Osoba spol = "M">
+    <Ime>Lovro</Ime>
+    <Prezime>Talijić</Prezime>
+    <MjestoStanovanja>
+        <Adresa>Siget 18 c</Adresa>
+        <Grad>Zagreb</Grad>
+        <Drzava>Hrvatska</Drzava>
+    </MjestoStanovanja>
+    <Kontakt>
+        <Mobitel>000000000</Mobitel>
+        <KucniTelefon>0000000</KucniTelefon>
+        <Email>ltalijic@tvz.hr</Email>
+    </Kontakt>
+
+</Osoba>
+
+<!--DTD dokument će imati atribut ovako napisan
+    <!ATTLIST Osoba spol (M | Ž) "M">
+-->

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding = "UTF-8"?>
+
+<narudzbe xmlns:nar = "http://primjer.hr/narudzba"
+        xmlns:rac = "http://primjer.hr/racun">
+    <narudzba>
+        <nar:broj>N-2026-015</nar:broj>
+        <nar:datum>2026-04-08</nar:datum>
+        <nar:iznos>189.99 EUR</nar:iznos>
+
+        <rac:broj>R-2026-015</rac:broj>
+        <rac:datum>2026-04-08</rac:datum>
+        <rac:iznos>189.99 EUR</rac:iznos>
+    </narudzba>
+
+
+
+</narudzbe>
+
+<!-- Podatke razdvajamo u zasebne imenske prostore da onemogućimo mogućnost greške što znači da
+za narudzbu i racun su drugačiji imenski prostori jer time omogućavamo da neće doći do konflikta
+između podataka koji imaju istu oznaku te pristupamo preko danog prefiksa (nar, rac) određenom imenskom prostoru po potrebi.-->

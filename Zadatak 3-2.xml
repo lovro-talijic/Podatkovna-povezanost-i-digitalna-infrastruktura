@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding = "UTF-8"?>
+
+<Narudzba>
+    <Ime>Lovro</Ime>
+    <Prezime>Talijić</Prezime>
+    <MjestoStanovanja>
+        <Adresa>Siget 18 c</Adresa>
+        <Grad>Zagreb</Grad>
+        <Drzava>Hrvatska</Drzava>
+    </MjestoStanovanja>
+    <NaručeniArtikl>
+        <Naziv>Guinness Book of World Records</Naziv>
+        <Kolicina>1</Kolicina>
+        <Cijena>49.99</Cijena>
+    </NaručeniArtikl>
+
+</Narudzba>
